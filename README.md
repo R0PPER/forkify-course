@@ -1,7 +1,7 @@
-🍽️ Forkify Project
+🍽️ Forkify Project.
 🚀 Forkify is a sleek, modern recipe application that allows users to search, upload, and manage their favorite recipes effortlessly.
 
-🔗 Live Demo: Forkify App
+🔗 Live Demo: [Forkify App](forkify-app-panos.netlify.app)
 
 ✨ Features
 ✅ Search Recipes – Find delicious recipes instantly by searching for your favorite ingredients or dishes.
