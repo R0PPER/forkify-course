@@ -18,4 +18,4 @@ Parcel Bundler
 Forkify API
 HTML & SCSS
 📸 Preview
-![Forkify Preview](https://imgur.com/a/fLG5o9D)
+![Forkify Preview](https://i.imgur.com/EXMYkyN.png)
